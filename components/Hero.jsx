@@ -9,7 +9,7 @@ const Hero = () => (
       Next.js Sample Project
     </h1>
     <p classname="otherapp" data-testid="hero-otherapp">
-      <a href="https://sampler2.deboernet.eu">Naar Sample 2 applicatie</a>
+      <a href="https://sample2.deboernet.eu">Naar Sample 2 applicatie</a>
     </p>
     <p className="lead" data-testid="hero-lead">
       This is a sample application that demonstrates an authentication flow for a Regular Web App, using{' '}
