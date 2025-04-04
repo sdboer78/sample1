@@ -11,7 +11,6 @@ export default function Index() {
       <Hero />
       <hr />
       <Content />
-<!-- Matomo -->
 <script>
   var _paq = window._paq = window._paq || [];
   /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
@@ -25,7 +24,6 @@ export default function Index() {
     g.async=true; g.src='https://cdn.matomo.cloud/deboernet.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
-<!-- End Matomo Code -->
       
     </>
   );
